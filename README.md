@@ -1,6 +1,6 @@
 ### Hello! Welcome to my git :) i'm Lucas Sena✋
 
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-cruz-sena-180b31220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWWdj7QJ%2BSDKKTyUg3Pjd0w%3D%3D) [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sena_lcs/)
+[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sena-180b31220/) [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sena_lcs/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSena-dev&show_icons=true&theme=radical)
 
